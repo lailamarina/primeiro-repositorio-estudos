@@ -1,2 +1,2 @@
-# primeiro repositorio estudos
- Primeiro repositório para estudo
+# Primeiro repositório estudos
+ Primeiro repositório para estudo de GIT e GITHUB
